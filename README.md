@@ -1,6 +1,6 @@
 # Coding Challenges Solutions
 
-I have added my coding approach to solve problems on various coding platforms. For now I have added solutions to questions I have solved on Hackeearth.
+I have added my coding approach to solve problems on various coding platforms. For now I have added solutions to questions I have solved on Hackerearth.
 
 ### Hackerearth
 #### Basic Programming
