@@ -12,6 +12,10 @@ I have added my coding approach to solve problems on various coding platforms. F
 1. [Monk and the box of cookies](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/monk-and-the-box-of-cookies/)
 1. [The Castle Gate](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/the-castle-gate-july-easy/)
 1. [Bit Flipping Game <Nissan>](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/bit-flippings-dd1f7ef1/)
+1. [Lazy Panda](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/lazy-panda-1/)
+1. [Help your roommate](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/a-new-experiment/)
+1. [Jarvis and Lone Integer](https://www.hackerearth.com/practice/basic-programming/bit-manipulation/basics-of-bit-manipulation/practice-problems/algorithm/unit-existence/)
+
 
 ##### Input / Output
 
